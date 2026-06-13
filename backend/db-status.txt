@@ -1,0 +1,5 @@
+Database Connection Test Run at: 11/6/2026, 11:04:28 am
+Using URI: mongodb+srv:****@cluster0.xj2bqa6.mongodb.net/lms?retryWrites=true&w=majority
+
+STATUS: CONNECTED SUCCESS!
+Connected successfully to host: ac-kf2emmo-shard-00-00.xj2bqa6.mongodb.net
